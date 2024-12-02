@@ -1,0 +1,9 @@
+.gradle/
+./bin/
+build/
+.classpath
+.project
+.settings
+.release-tag
+.current-branch
+
